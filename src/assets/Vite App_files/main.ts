@@ -1,9 +1,0 @@
-import { createApp } from "/node_modules/.vite/deps/vue.js?v=14f90ba6";
-import App from "/src/App.vue?t=1668353363222";
-import router from "/src/router/index.ts?t=1668353363222";
-import "/src/assets/main.css?t=1668353363222";
-const app = createApp(App);
-app.use(router);
-app.mount("#app");
-
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9pdGFsb2FsYmVydG8vRG9jdW1lbnRzL3Byb2pldG9zL3Z1ZS1zdHVkeS92dWUtc3R1ZHkvc3JjL21haW4udHMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgY3JlYXRlQXBwIH0gZnJvbSBcInZ1ZVwiO1xuaW1wb3J0IEFwcCBmcm9tIFwiLi9BcHAudnVlXCI7XG5pbXBvcnQgcm91dGVyIGZyb20gXCIuL3JvdXRlclwiO1xuXG5pbXBvcnQgXCIuL2Fzc2V0cy9tYWluLmNzc1wiO1xuXG5jb25zdCBhcHAgPSBjcmVhdGVBcHAoQXBwKTtcblxuYXBwLnVzZShyb3V0ZXIpO1xuXG5hcHAubW91bnQoXCIjYXBwXCIpO1xuIl0sIm1hcHBpbmdzIjoiQUFBQSxTQUFTLGlCQUFpQjtBQUMxQixPQUFPLFNBQVM7QUFDaEIsT0FBTyxZQUFZO0FBRW5CLE9BQU87QUFFUCxNQUFNLE1BQU0sVUFBVSxHQUFHO0FBRXpCLElBQUksSUFBSSxNQUFNO0FBRWQsSUFBSSxNQUFNLE1BQU07IiwibmFtZXMiOltdfQ==
